@@ -1,0 +1,2 @@
+# tldjowcerc
+Virus shortcut creator
